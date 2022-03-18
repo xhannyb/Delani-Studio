@@ -101,3 +101,11 @@ html{
 .what-we-do .headings{
   padding-bottom: 38px;
 }
+.contact{
+  background-image: url('../images/backgrounds/c_image.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  /* text-align: center; */
+}
