@@ -92,3 +92,12 @@ html{
   margin-left:18%;
   margin-right: 16%; 
 }
+.what-we-do{
+  font-family: 'Quattrocento', serif;
+  text-align: center;
+  padding-top: 40px;
+  font-family: 'Gabriela', serif;
+}
+.what-we-do .headings{
+  padding-bottom: 38px;
+}
